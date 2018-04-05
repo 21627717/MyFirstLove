@@ -1,5 +1,4 @@
 The rainbow and the unicorn
-I love .net
 purple
 pink
 orange
@@ -12,5 +11,4 @@ blie
 these are the colors of the rainbow! 
 and the lovely unicorn
 its awesome
-mvc
 its kinda cool
